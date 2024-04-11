@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:43167/YouvenZ/mario.github.io/</loc>
+    <loc>http://localhost:37437/mario.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:43167/YouvenZ/mario.github.io/fr/"
+                href="http://localhost:37437/mario.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43167/YouvenZ/mario.github.io/"
+                href="http://localhost:37437/mario.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:43167/YouvenZ/mario.github.io/categories/</loc>
+    <loc>http://localhost:37437/mario.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:43167/YouvenZ/mario.github.io/fr/categories/"
+                href="http://localhost:37437/mario.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43167/YouvenZ/mario.github.io/categories/"
+                href="http://localhost:37437/mario.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:43167/YouvenZ/mario.github.io/tags/</loc>
+    <loc>http://localhost:37437/mario.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:43167/YouvenZ/mario.github.io/fr/tags/"
+                href="http://localhost:37437/mario.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:43167/YouvenZ/mario.github.io/tags/"
+                href="http://localhost:37437/mario.github.io/tags/"
                 />
   </url>
 </urlset>
